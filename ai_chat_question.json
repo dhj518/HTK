@@ -1,0 +1,148 @@
+{
+  "version": "1.0.0",
+  "content": [
+    {
+      "language": "en",
+      "questions": [
+        "My stomach often feels uncomfortable; could this be gastritis?",
+        "I feel very anxious and don’t know what to do.",
+        "I often have insomnia at night; how can I improve it?",
+        "I'm experiencing serious hair loss; what can I do about it?",
+        "How can I improve my skin through diet?",
+        "I have high blood pressure and high blood sugar.",
+        "I’ve been having headaches a lot lately; what could be the cause?",
+        "My joints often hurt."
+      ]
+    },
+    {
+      "language": "ar",
+      "questions": [
+        "معدتي غالباً ما تشعر بعدم الراحة؛ هل يمكن أن يكون ذلك التهاب المعدة؟",
+        "أشعر بالقلق الشديد ولا أعرف ماذا أفعل.",
+        "غالباً ما أعاني من الأرق في الليل؛ كيف يمكنني تحسين ذلك؟",
+        "أعاني من تساقط الشعر بشكل كبير؛ ماذا يمكنني أن أفعل حيال ذلك؟",
+        "كيف يمكنني تحسين بشرتي من خلال النظام الغذائي؟",
+        "لدي ضغط دم مرتفع وسكر دم مرتفع.",
+        "لقد كنت أعاني من الصداع كثيراً في الآونة الأخيرة؛ ما الذي قد يكون السبب؟",
+        "مفاصلي تؤلمني كثيراً."
+      ]
+    },
+    {
+      "language": "de",
+      "questions": [
+        "Mein Magen fühlt sich oft unwohl an; könnte das Gastritis sein?",
+        "Ich fühle mich sehr ängstlich und weiß nicht, was ich tun soll.",
+        "Ich habe oft Schlaflosigkeit in der Nacht; wie kann ich das verbessern?",
+        "Ich verliere ernsthaft Haare; was kann ich dagegen tun?",
+        "Wie kann ich meine Haut durch Ernährung verbessern?",
+        "Ich habe hohen Blutdruck und hohen Blutzucker.",
+        "Ich habe in letzter Zeit oft Kopfschmerzen; was könnte die Ursache sein?",
+        "Meine Gelenke schmerzen oft."
+      ]
+    },
+    {
+      "language": "es",
+      "questions": [
+        "Mi estómago a menudo se siente incómodo; ¿podría ser gastritis?",
+        "Me siento muy ansioso y no sé qué hacer.",
+        "A menudo tengo insomnio por la noche; ¿cómo puedo mejorarlo?",
+        "Estoy experimentando una pérdida de cabello grave; ¿qué puedo hacer al respecto?",
+        "¿Cómo puedo mejorar mi piel a través de la dieta?",
+        "Tengo presión arterial alta y azúcar en sangre alta.",
+        "He estado teniendo dolores de cabeza mucho últimamente; ¿cuál podría ser la causa?",
+        "Mis articulaciones a menudo me duelen."
+      ]
+    },
+    {
+      "language": "fr",
+      "questions": [
+        "Mon estomac se sent souvent mal à l'aise ; cela pourrait-il être une gastrite ?",
+        "Je me sens très anxieux et je ne sais pas quoi faire.",
+        "J'ai souvent de l'insomnie la nuit ; comment puis-je l'améliorer ?",
+        "Je perds sérieusement mes cheveux ; que puis-je faire à ce sujet ?",
+        "Comment puis-je améliorer ma peau grâce à l'alimentation ?",
+        "J'ai une pression artérielle élevée et un taux de sucre élevé.",
+        "J'ai souvent des maux de tête ces derniers temps ; quelle pourrait en être la cause ?",
+        "Mes articulations me font souvent mal."
+      ]
+    },
+    {
+      "language": "hi",
+      "questions": [
+        "मुझे अक्सर पेट में असहजता महसूस होती है; क्या यह गैस्ट्राइटिस हो सकता है?",
+        "मैं बहुत चिंतित महसूस करता हूँ और मुझे नहीं पता कि क्या करना चाहिए।",
+        "मुझे रात को अक्सर अनिद्रा होती है; मैं इसे कैसे सुधार सकता हूँ?",
+        "मैं गंभीर बालों का झड़ना अनुभव कर रहा हूँ; इसके बारे में मैं क्या कर सकता हूँ?",
+        "मैं अपनी त्वचा को आहार के माध्यम से कैसे सुधार सकता हूँ?",
+        "मुझे उच्च रक्तचाप और उच्च रक्त शर्करा है।",
+        "हाल ही में मुझे बहुत सिरदर्द हो रहा है; इसका कारण क्या हो सकता है?",
+        "मेरे जोड़ अक्सर दुखते हैं।"
+      ]
+    },
+    {
+      "language": "id",
+      "questions": [
+        "Perut saya sering merasa tidak nyaman; apakah ini bisa jadi gastritis?",
+        "Saya merasa sangat cemas dan tidak tahu harus berbuat apa.",
+        "Saya sering mengalami insomnia di malam hari; bagaimana saya bisa memperbaikinya?",
+        "Saya mengalami kerontokan rambut yang serius; apa yang bisa saya lakukan untuk mengatasinya?",
+        "Bagaimana saya bisa memperbaiki kulit saya melalui diet?",
+        "Saya memiliki tekanan darah tinggi dan gula darah tinggi.",
+        "Saya akhir-akhir ini sering mengalami sakit kepala; apa penyebabnya?",
+        "Sendi saya sering terasa sakit."
+      ]
+    },
+    {
+      "language": "ja",
+      "questions": [
+        "私の胃はよく不快感を感じます; これは胃炎でしょうか？",
+        "私はとても不安を感じており、どうすれば良いかわかりません。",
+        "夜によく不眠症になります; どうすれば改善できますか？",
+        "私は深刻な脱毛を経験しています; それについて何をすれば良いですか？",
+        "食事を通じて肌を改善する方法はありますか？",
+        "私は高血圧と高血糖です。",
+        "最近よく頭痛があります; その原因は何でしょうか？",
+        "私の関節はよく痛みます。"
+      ]
+    },
+    {
+      "language": "ko",
+      "questions": [
+        "내 위장이 자주 불편한데, 이것이 위염일까요?",
+        "저는 매우 불안감을 느끼고 있고, 무엇을 해야 할지 모르겠습니다.",
+        "저는 밤에 자주 불면증에 시달립니다; 어떻게 개선할 수 있을까요?",
+        "저는 심각한 탈모를 겪고 있습니다; 이에 대해 무엇을 할 수 있을까요?",
+        "식이를 통해 제 피부를 개선할 수 있는 방법은 무엇인가요?",
+        "저는 고혈압과 고혈당이 있습니다.",
+        "최근에 자주 두통이 있습니다; 그 원인은 무엇일까요?",
+        "저는 자주 관절이 아픕니다."
+      ]
+    },
+    {
+      "language": "pt",
+      "questions": [
+        "Meu estômago frequentemente se sente desconfortável; isso pode ser gastrite?",
+        "Estou me sentindo muito ansioso e não sei o que fazer.",
+        "Eu frequentemente tenho insônia à noite; como posso melhorar isso?",
+        "Estou enfrentando queda de cabelo séria; o que posso fazer sobre isso?",
+        "Como posso melhorar minha pele por meio da dieta?",
+        "Eu tenho pressão alta e açúcar no sangue elevado.",
+        "Tenho tido dores de cabeça com frequência ultimamente; qual pode ser a causa?",
+        "Minhas articulações frequentemente doem."
+      ]
+    },
+    {
+      "language": "vi",
+      "questions": [
+        "Dạ dày của tôi thường cảm thấy không thoải mái; liệu có phải là viêm dạ dày không?",
+        "Tôi cảm thấy rất lo âu và không biết phải làm gì.",
+        "Tôi thường xuyên bị mất ngủ vào ban đêm; làm thế nào để cải thiện điều này?",
+        "Tôi đang gặp phải tình trạng rụng tóc nghiêm trọng; tôi có thể làm gì về điều này?",
+        "Làm thế nào để tôi có thể cải thiện làn da của mình qua chế độ ăn uống?",
+        "Tôi bị huyết áp cao và đường huyết cao.",
+        "Gần đây tôi thường xuyên bị đau đầu; nguyên nhân có thể là gì?",
+        "Khớp của tôi thường xuyên bị đau."
+      ]
+    }
+  ]
+}
