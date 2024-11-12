@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "content": [
     {
       "language": "en",
@@ -11,7 +11,14 @@
         "How can I improve my skin through diet?",
         "I have high blood pressure and high blood sugar.",
         "I’ve been having headaches a lot lately; what could be the cause?",
-        "My joints often hurt."
+        "My joints often hurt.",
+        "Does exercise help with heart health?",
+        "Can I drink juice every day?",
+        "I sometimes feel anxious and uneasy.",
+        "I’d like to know how to eat healthier.",
+        "I’ve been getting frequent nosebleeds lately. Not sure why.",
+        "My throat feels dry constantly",
+        "I seem to catch colds a lot lately. Is my immunity weaker?"
       ]
     },
     {
@@ -24,7 +31,14 @@
         "كيف يمكنني تحسين بشرتي من خلال النظام الغذائي؟",
         "لدي ضغط دم مرتفع وسكر دم مرتفع.",
         "لقد كنت أعاني من الصداع كثيراً في الآونة الأخيرة؛ ما الذي قد يكون السبب؟",
-        "مفاصلي تؤلمني كثيراً."
+        "مفاصلي تؤلمني كثيراً.",
+        "هل التمارين الرياضية تساعد في صحة القلب؟",
+        "هل يمكنني شرب العصير كل يوم؟",
+        "أشعر أحياناً بالقلق وعدم الارتياح.",
+        "أود معرفة كيفية تناول طعام صحي أكثر.",
+        "لقد بدأت أعاني من نزيف الأنف بشكل متكرر مؤخراً. لست متأكداً من السبب.",
+        "حلقي يشعر بالجفاف باستمرار.",
+        "أبدو وكأنني أصاب بنزلات البرد كثيراً في الآونة الأخيرة. هل مناعتي ضعفت؟"
       ]
     },
     {
@@ -37,7 +51,14 @@
         "Wie kann ich meine Haut durch Ernährung verbessern?",
         "Ich habe hohen Blutdruck und hohen Blutzucker.",
         "Ich habe in letzter Zeit oft Kopfschmerzen; was könnte die Ursache sein?",
-        "Meine Gelenke schmerzen oft."
+        "Meine Gelenke schmerzen oft.",
+        "Hilft Sport der Herzgesundheit?",
+        "Kann ich jeden Tag Saft trinken?",
+        "Ich fühle mich manchmal ängstlich und unruhig.",
+        "Ich möchte wissen, wie ich gesünder essen kann.",
+        "Ich habe in letzter Zeit häufig Nasenbluten. Ich weiß nicht, warum.",
+        "Mein Hals fühlt sich ständig trocken an.",
+        "In letzter Zeit bekomme ich oft Erkältungen. Ist meine Immunität schwächer?"
       ]
     },
     {
@@ -50,7 +71,14 @@
         "¿Cómo puedo mejorar mi piel a través de la dieta?",
         "Tengo presión arterial alta y azúcar en sangre alta.",
         "He estado teniendo dolores de cabeza mucho últimamente; ¿cuál podría ser la causa?",
-        "Mis articulaciones a menudo me duelen."
+        "Mis articulaciones a menudo me duelen.",
+        "¿El ejercicio ayuda a la salud del corazón?",
+        "¿Puedo tomar jugo todos los días?",
+        "A veces me siento ansioso e inquieto.",
+        "Me gustaría saber cómo comer de forma más saludable.",
+        "Últimamente tengo frecuentes hemorragias nasales. No estoy seguro de por qué.",
+        "Mi garganta se siente seca constantemente.",
+        "Últimamente me resfrío mucho. ¿Es más débil mi inmunidad?"
       ]
     },
     {
@@ -63,7 +91,14 @@
         "Comment puis-je améliorer ma peau grâce à l'alimentation ?",
         "J'ai une pression artérielle élevée et un taux de sucre élevé.",
         "J'ai souvent des maux de tête ces derniers temps ; quelle pourrait en être la cause ?",
-        "Mes articulations me font souvent mal."
+        "Mes articulations me font souvent mal.",
+        "L'exercice aide-t-il à la santé du cœur ?",
+        "Puis-je boire du jus tous les jours ?",
+        "Parfois, je me sens anxieux et mal à l'aise.",
+        "J'aimerais savoir comment manger plus sainement.",
+        "J'ai souvent des saignements de nez récemment. Je ne sais pas pourquoi.",
+        "Ma gorge est constamment sèche.",
+        "Je semble attraper souvent des rhumes ces derniers temps. Mon immunité est-elle plus faible ?"
       ]
     },
     {
@@ -76,7 +111,14 @@
         "मैं अपनी त्वचा को आहार के माध्यम से कैसे सुधार सकता हूँ?",
         "मुझे उच्च रक्तचाप और उच्च रक्त शर्करा है।",
         "हाल ही में मुझे बहुत सिरदर्द हो रहा है; इसका कारण क्या हो सकता है?",
-        "मेरे जोड़ अक्सर दुखते हैं।"
+        "मेरे जोड़ अक्सर दुखते हैं।",
+        "क्या व्यायाम से हृदय स्वास्थ्य में सुधार होता है?",
+        "क्या मैं हर दिन जूस पी सकता हूँ?",
+        "मैं कभी-कभी चिंतित और असहज महसूस करता हूँ।",
+        "मुझे स्वस्थ खाने के बारे में जानना है।",
+        "हाल ही में मुझे बार-बार नकसीर हो रही है। कारण पता नहीं।",
+        "मेरा गला लगातार सूखा रहता है।",
+        "मुझे हाल ही में बार-बार सर्दी हो रही है। क्या मेरी रोग प्रतिरोधक क्षमता कमजोर हो गई है?"
       ]
     },
     {
@@ -89,7 +131,14 @@
         "Bagaimana saya bisa memperbaiki kulit saya melalui diet?",
         "Saya memiliki tekanan darah tinggi dan gula darah tinggi.",
         "Saya akhir-akhir ini sering mengalami sakit kepala; apa penyebabnya?",
-        "Sendi saya sering terasa sakit."
+        "Sendi saya sering terasa sakit.",
+        "Apakah olahraga membantu kesehatan jantung?",
+        "Bisakah saya minum jus setiap hari?",
+        "Saya terkadang merasa cemas dan tidak nyaman.",
+        "Saya ingin tahu cara makan lebih sehat.",
+        "Saya sering mimisan belakangan ini. Tidak yakin kenapa.",
+        "Tenggorokan saya terasa kering terus menerus.",
+        "Akhir-akhir ini saya sering terkena flu. Apakah kekebalan tubuh saya melemah?"
       ]
     },
     {
@@ -102,7 +151,14 @@
         "食事を通じて肌を改善する方法はありますか？",
         "私は高血圧と高血糖です。",
         "最近よく頭痛があります; その原因は何でしょうか？",
-        "私の関節はよく痛みます。"
+        "私の関節はよく痛みます。",
+        "運動は心臓の健康に良いですか？",
+        "毎日ジュースを飲んでもいいですか？",
+        "時々不安で落ち着かない感じがします。",
+        "もっと健康的に食事をする方法を知りたいです。",
+        "最近、頻繁に鼻血が出ます。原因がわかりません。",
+        "喉が常に乾燥しています。",
+        "最近、よく風邪をひいています。免疫力が弱くなったのでしょうか？"
       ]
     },
     {
@@ -115,7 +171,15 @@
         "식이를 통해 제 피부를 개선할 수 있는 방법은 무엇인가요?",
         "저는 고혈압과 고혈당이 있습니다.",
         "최근에 자주 두통이 있습니다; 그 원인은 무엇일까요?",
-        "저는 자주 관절이 아픕니다."
+        "저는 자주 관절이 아픕니다.",
+        "운동이 심장 건강에 도움이 되나요?",
+        "매일 주스를 마셔도 되나요?",
+        "가끔 불안하고 불편한 느낌이 들어요.",
+        "더 건강하게 먹는 방법을 알고 싶어요.",
+        "최근에 자주 코피가 나요. 이유를 모르겠어요.",
+        "목이 계속 건조해요.",
+        "최근에 감기에 자주 걸려요. 면역력이 약해진 걸까요?"
+
       ]
     },
     {
@@ -128,7 +192,15 @@
         "Como posso melhorar minha pele por meio da dieta?",
         "Eu tenho pressão alta e açúcar no sangue elevado.",
         "Tenho tido dores de cabeça com frequência ultimamente; qual pode ser a causa?",
-        "Minhas articulações frequentemente doem."
+        "Minhas articulações frequentemente doem.",
+        "O exercício ajuda na saúde do coração?",
+        "Posso beber suco todos os dias?",
+        "Às vezes me sinto ansioso e desconfortável.",
+        "Gostaria de saber como comer de forma mais saudável.",
+        "Tenho tido hemorragias nasais frequentes ultimamente. Não tenho certeza do porquê.",
+        "Minha garganta está constantemente seca.",
+        "Pego resfriados com frequência ultimamente. Minha imunidade está mais fraca?"
+
       ]
     },
     {
@@ -141,7 +213,14 @@
         "Làm thế nào để tôi có thể cải thiện làn da của mình qua chế độ ăn uống?",
         "Tôi bị huyết áp cao và đường huyết cao.",
         "Gần đây tôi thường xuyên bị đau đầu; nguyên nhân có thể là gì?",
-        "Khớp của tôi thường xuyên bị đau."
+        "Khớp của tôi thường xuyên bị đau.",
+        "Tập thể dục có giúp ích cho sức khỏe tim mạch không?",
+        "Tôi có thể uống nước ép mỗi ngày không?",
+        "Đôi khi tôi cảm thấy lo lắng và bất an.",
+        "Tôi muốn biết cách ăn uống lành mạnh hơn.",
+        "Gần đây tôi thường bị chảy máu cam. Không rõ lý do tại sao.",
+        "Cổ họng tôi liên tục bị khô.",
+        "Dạo này tôi hay bị cảm. Có phải khả năng miễn dịch của tôi yếu hơn không?"
       ]
     }
   ]
