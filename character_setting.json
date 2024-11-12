@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "content": [
     {
       "language": "en",
@@ -21,8 +21,8 @@
           "prompt_3": "I constantly feel weak and low on energy.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
-
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -42,7 +42,8 @@
           "prompt_3": "I feel my strength fading with age.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -62,7 +63,8 @@
           "prompt_3": "Does exercise help with heart health?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -82,7 +84,8 @@
           "prompt_3": "I’m under a lot of stress and can’t seem to relax.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -103,7 +106,8 @@
           "prompt_3": "My blood sugar is too high. What should I do?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -124,7 +128,8 @@
           "prompt_3": "I want to control my weight but don’t want to feel hungry.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -148,7 +153,8 @@
           "prompt_3": "أشعر بالضعف ونقص الطاقة باستمرار.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -167,7 +173,8 @@
           "prompt_3": "أشعر بأن قوتي تتلاشى مع التقدم في العمر.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -186,7 +193,8 @@
           "prompt_3": "هل يساعد التمرين في تحسين صحة القلب؟",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -205,7 +213,8 @@
           "prompt_3": "أعاني من الكثير من التوتر ولا أستطيع الاسترخاء.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -225,7 +234,8 @@
           "prompt_3": "مستوى السكر في دمي مرتفع جدًا. ماذا يجب أن أفعل؟",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -246,7 +256,8 @@
           "prompt_3": "أرغب في التحكم بوزني لكن لا أريد أن أشعر بالجوع.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -270,7 +281,8 @@
           "prompt_3": "Ich fühle mich ständig schwach und energiearm.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -290,7 +302,8 @@
           "prompt_3": "Ich spüre, wie meine Kraft mit dem Alter nachlässt.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -310,7 +323,8 @@
           "prompt_3": "Hilft Bewegung der Herzgesundheit?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -330,7 +344,8 @@
           "prompt_3": "Ich stehe unter viel Stress und kann mich nicht entspannen.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -351,7 +366,8 @@
           "prompt_3": "Mein Blutzucker ist zu hoch. Was soll ich tun?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -372,7 +388,8 @@
           "prompt_3": "Ich möchte mein Gewicht kontrollieren, aber ich will nicht hungrig sein.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -396,7 +413,8 @@
           "prompt_3": "Constantemente me siento débil y sin energía.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -416,7 +434,8 @@
           "prompt_3": "Siento que mi fuerza disminuye con la edad.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -436,7 +455,8 @@
           "prompt_3": "¿El ejercicio ayuda a la salud del corazón?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -456,7 +476,8 @@
           "prompt_3": "Estoy bajo mucho estrés y no puedo relajarme.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -477,7 +498,8 @@
           "prompt_3": "Mi nivel de azúcar en sangre está demasiado alto. ¿Qué debería hacer?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -498,7 +520,8 @@
           "prompt_3": "Quiero controlar mi peso pero no quiero sentir hambre.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -522,7 +545,8 @@
           "prompt_3": "Je me sens constamment faible et manquant d'énergie.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -542,7 +566,8 @@
           "prompt_3": "Je sens que ma force diminue avec l'âge.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -562,7 +587,8 @@
           "prompt_3": "L'exercice physique aide-t-il à la santé cardiaque ?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -582,7 +608,8 @@
           "prompt_3": "Je suis sous beaucoup de stress et je n'arrive pas à me détendre.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -603,7 +630,8 @@
           "prompt_3": "Mon taux de sucre dans le sang est trop élevé. Que devrais-je faire ?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -624,7 +652,8 @@
           "prompt_3": "Je veux contrôler mon poids mais je ne veux pas avoir faim.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -648,7 +677,8 @@
           "prompt_3": "मुझे लगातार कमजोरी और ऊर्जा की कमी महसूस हो रही है।",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -668,7 +698,8 @@
           "prompt_3": "मुझे उम्र के साथ अपनी ताकत कम होती महसूस हो रही है।",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -688,7 +719,8 @@
           "prompt_3": "क्या व्यायाम हृदय स्वास्थ्य में मदद करता है?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -708,7 +740,8 @@
           "prompt_3": "मैं बहुत तनाव में हूँ और आराम नहीं कर पा रहा हूँ।",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -729,7 +762,8 @@
           "prompt_3": "मेरी रक्त शर्करा बहुत अधिक है। मुझे क्या करना चाहिए?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -750,7 +784,8 @@
           "prompt_3": "मैं अपना वजन नियंत्रित करना चाहता हूँ लेकिन भूखा नहीं महसूस करना चाहता।",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -774,7 +809,8 @@
           "prompt_3": "Saya terus merasa lemah dan kekurangan energi.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -794,7 +830,8 @@
           "prompt_3": "Saya merasa kekuatan saya berkurang seiring bertambahnya usia.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -814,7 +851,8 @@
           "prompt_3": "Apakah olahraga membantu kesehatan jantung?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -834,7 +872,8 @@
           "prompt_3": "Saya sedang stres dan sepertinya tidak bisa rileks.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -855,7 +894,8 @@
           "prompt_3": "Gula darah saya terlalu tinggi. Apa yang harus saya lakukan?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -876,7 +916,8 @@
           "prompt_3": "Saya ingin mengontrol berat badan saya tapi tidak ingin merasa lapar.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -900,7 +941,8 @@
           "prompt_3": "常に弱くてエネルギーが不足しているように感じます。",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -920,7 +962,8 @@
           "prompt_3": "年齢とともに力が衰えているのを感じます。",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -940,7 +983,8 @@
           "prompt_3": "運動は心臓の健康に役立ちますか？",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -960,7 +1004,8 @@
           "prompt_3": "強いストレスを感じていて、リラックスできません。",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -981,7 +1026,8 @@
           "prompt_3": "血糖値が高すぎます。どうすればいいですか？",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -1002,7 +1048,8 @@
           "prompt_3": "空腹感を感じずに体重をコントロールしたいです。",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -1026,7 +1073,8 @@
           "prompt_3": "계속 약해지고 에너지가 부족한 느낌이에요.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -1046,7 +1094,8 @@
           "prompt_3": "나이가 들면서 힘이 점점 약해지는 것을 느낍니다.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -1066,7 +1115,8 @@
           "prompt_3": "운동이 심장 건강에 도움이 되나요?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -1086,7 +1136,8 @@
           "prompt_3": "스트레스를 많이 받고 있어서 긴장을 풀 수가 없어요.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -1107,7 +1158,8 @@
           "prompt_3": "혈당이 너무 높아요. 어떻게 해야 하나요?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -1128,7 +1180,8 @@
           "prompt_3": "배고픔을 느끼지 않고 체중을 관리하고 싶어요.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -1152,7 +1205,8 @@
           "prompt_3": "Sinto-me constantemente fraco e com pouca energia.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -1172,7 +1226,8 @@
           "prompt_3": "Sinto que minha força está diminuindo com a idade.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -1192,7 +1247,8 @@
           "prompt_3": "O exercício ajuda na saúde do coração?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -1212,7 +1268,8 @@
           "prompt_3": "Estou sob muito estresse e não consigo relaxar.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -1233,7 +1290,8 @@
           "prompt_3": "Meu açúcar no sangue está muito alto. O que devo fazer?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -1254,7 +1312,8 @@
           "prompt_3": "Quero controlar meu peso, mas não quero sentir fome.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     },
@@ -1278,7 +1337,8 @@
           "prompt_3": "Tôi luôn cảm thấy yếu và thiếu năng lượng.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_general_practitioner_icon4.png"
         },
         {
           "role_id": 2,
@@ -1298,7 +1358,8 @@
           "prompt_3": "Tôi cảm thấy sức mạnh của mình dần giảm đi theo tuổi tác.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_geriatric_specialist_icon4.png"
         },
         {
           "role_id": 3,
@@ -1318,7 +1379,8 @@
           "prompt_3": "Tập thể dục có giúp ích cho sức khỏe tim mạch không?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_cardiologist_icon4.png"
         },
         {
           "role_id": 4,
@@ -1338,7 +1400,8 @@
           "prompt_3": "Tôi đang gặp rất nhiều căng thẳng và không thể thư giãn.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_psychiatrist_icon4.png"
         },
         {
           "role_id": 5,
@@ -1359,7 +1422,8 @@
           "prompt_3": "Đường huyết của tôi quá cao. Tôi nên làm gì?",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_endocrinologist_icon4.png"
         },
         {
           "role_id": 6,
@@ -1380,7 +1444,8 @@
           "prompt_3": "Tôi muốn kiểm soát cân nặng nhưng không muốn cảm thấy đói.",
           "poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon1.png",
           "avatar_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon2.png",
-          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png"
+          "label_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon3.png",
+          "big_poster_url": "https://raw.githubusercontent.com/dhj518/HTK/refs/heads/main/doctor_nutritionist_icon4.png"
         }
       ]
     }
